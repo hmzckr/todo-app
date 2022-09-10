@@ -1,7 +1,7 @@
 
 # Screen Gif
 
-(![]screen.gif)
+![]screen.gif
 
 
 # Getting Started with Create React App

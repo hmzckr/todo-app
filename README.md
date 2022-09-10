@@ -1,8 +1,6 @@
 
 # Screen Gif
-
-[screen.gif](https://github.com/hmzckr/todo-app/blob/main/screen.gif)
-
+![]((https://github.com/hmzckr/todo-app/blob/main/screen.gif)
 
 # Getting Started with Create React App
 

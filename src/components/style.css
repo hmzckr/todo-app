@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Rampart+One&display=swap");
+
+* {
+  margin: 0px;
+}
+body {
+  background-image: url("../images/backgraund2.jpg");
+  background-size: cover;
+  background-color: rgba(3, 29, 157, 0.41);
+  color: rgb(0, 0, 0);
+}
+
+.container h2 {
+  font-family: "Rampart One", cursive;
+  background-image: url("../images/62585a20661151be35733290_GreenBox.png");
+  background-size: contain;
+  border-radius: 50px;
+  margin: 500px;
+}
+
+.container .todosyetnot {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  margin-left: 35%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: linear-gradient(180deg, #8b000088, #ff0000db);
+  border-radius: 10px;
+  color: white;
+  width: 30%;
+  height: 35px;
+}
+
+.container h2:hover {
+  font-family: "Rampart One", cursive;
+  font-weight: bold;
+  color: azure;
+  transition: 0.4s;
+}
+.form-control {
+  font-style: italic;
+  font-size: small;
+}
